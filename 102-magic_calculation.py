@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 
 
 def magic_calculation(a, b):
@@ -13,3 +14,7 @@ def magic_calculation(a, b):
 
     else:
         return(sub(a, b))
+=======
+def magic_calculation(a, b):
+    return (98 + a ** b)
+>>>>>>> 4f1f7fb9947ccad909e0021722b1a6e88304439e
